@@ -1,0 +1,1 @@
+document.write('<script src="problems.js"></script>');
